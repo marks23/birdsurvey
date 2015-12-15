@@ -7,3 +7,5 @@ Run Analysis
 Save Table
 
 Save Figure
+
+make small figure, red line
