@@ -6,4 +6,6 @@ Run Analysis
 
 Save Table
 
+Make header bold
+
 Save Figure
