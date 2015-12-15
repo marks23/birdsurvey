@@ -9,3 +9,5 @@ Save Table
 Make header bold
 
 Save Figure
+
+make small figure, red line
